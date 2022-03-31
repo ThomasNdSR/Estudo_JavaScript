@@ -1,10 +1,26 @@
-export class ContaCorrente {
-    agencia;
-    cliente;
+import { Cliente } from "./Cliente.js";
 
+export class ContaCorrente {
+    agencia;   
+    _cliente;
+
+    set Cliente(novoValor){
+        if(novoValor instanceof Cliente)
+        {
+            this._cliente = novoValor;
+        }
+    }
+
+    get Cliente(){
+        return this._cliente;
+    }
 
     _saldo = 0;
 
+    get Saldo(){
+        return this._saldo;
+    }
+    
     sacar(valor){
         if(this._saldo >= valor){
             this._saldo -= valor;
