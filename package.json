@@ -1,0 +1,20 @@
+{
+  "name": "estudo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasNdSR/Estudo-JavaScript.git"
+  },
+  "author": "Thomas",
+  "license": "ISC",
+  "type":"module", 
+  "bugs": {
+    "url": "https://github.com/ThomasNdSR/Estudo-JavaScript/issues"
+  },
+  "homepage": "https://github.com/ThomasNdSR/Estudo-JavaScript#readme"
+}
