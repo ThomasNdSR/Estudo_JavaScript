@@ -22,7 +22,7 @@ export class Conta {
         return this._cliente;
     }
 
-    get Saldo() {
+    get saldo() {
         return this._saldo;
     }
 
