@@ -1,5 +1,5 @@
 {
-  "name": "estudo-javascript",
+  "name": "estudo_javascript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThomasNdSR/Estudo-JavaScript.git"
+    "url": "git+https://github.com/ThomasNdSR/Estudo_JavaScript.git"
   },
   "author": "Thomas",
   "license": "ISC",
   "type":"module", 
   "bugs": {
-    "url": "https://github.com/ThomasNdSR/Estudo-JavaScript/issues"
+    "url": "https://github.com/ThomasNdSR/Estudo_JavaScript/issues"
   },
-  "homepage": "https://github.com/ThomasNdSR/Estudo-JavaScript#readme"
+  "homepage": "https://github.com/ThomasNdSR/Estudo_JavaScript#readme"
 }
